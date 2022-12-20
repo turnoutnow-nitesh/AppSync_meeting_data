@@ -7,6 +7,7 @@ let args = "";
     const meetingData = readJSON("d:/workarea/turnoutnow/github/Assignments/Appsync/samples/getMeetingInfo.json");
     // const meetingData = readJSON("./samples/getMeetingInfo.json");
     const response = await handler(meetingData);
+
     let items = [];
     if (response) {
         items.push({ "itemType": "USER", "id": response.organizerId });
@@ -42,7 +43,8 @@ let args = "";
     response["optionalParticipantIds"] = result.slice(2, result.length);
 
     console.log(JSON.stringify(response));
-    writeJSON("d:/workarea/turnoutnow/github/Assignments/Appsync/z_responses/meetingInfoFullDetailupdated.json", response);
+    writeJSON("d:/workarea/turnoutnow/github/Assignments/Appsync/z_responses/newCreatedMeetingFullDetail.json", response);
     // writeJSON("./z_responses/meetingInfoFullDetailupdated.json", response);
 })();
 
+// "meetingId": "40k2-iUflsQ0OoKJS7tgz"

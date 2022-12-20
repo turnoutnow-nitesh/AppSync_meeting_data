@@ -99,23 +99,32 @@ exports.getMeetingsDetail = async (eventId, ids) => {
     }
 };
 
-exports.createMeeting = async (meetingId, eventId, status) => {
+exports.createMeeting = async (eventId, type, meetingId, title, lastActionAt, lastActionById, lastActionType, optionalParticipantIds, organizerId, requiredParticipant, status, startTime, endTime) => {
 
     initDynamoDBClient();
 
     const input = {
         // TableName: process.env.DYNAMODB_TABLE_NAME,
         TableName: "onboarding",
-        
+
         Item: marshall({
             "PK": `MEETING#${meetingId}`,
             "SK": `MEETING#${meetingId}`,
-            "type": "Meeting",
+            "type": type,
             "GSI1PK": `EVENT#${eventId}#MEETING`,
             "GSI1SK": `${status}#${meetingId}`,
             "meetingId": meetingId,
             "eventId": eventId,
-            "title": "Test Meeting",
+            "title": title,
+            "lastActionAt": lastActionAt,
+            "lastActionById": lastActionById,
+            "lastActionType": lastActionType,
+            "optionalParticipantIds": optionalParticipantIds,
+            "organizerId": organizerId,
+            "requiredParticipant": requiredParticipant,
+            "status": status,
+            "startTime": startTime,
+            "endTime": endTime,
             "createdAt": new Date().toISOString(),
             "updatedAt": new Date().toISOString()
         })

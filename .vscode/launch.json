@@ -35,6 +35,14 @@
           "skipFiles": ["<node_internals>/**"],
           "type": "node",
           "envFile": "${workspaceFolder}/.env"
-        }
+        },
+        {
+          "name": "create",
+          "program": "${workspaceFolder}\\testers\\create.js",
+          "request": "launch",
+          "skipFiles": ["<node_internals>/**"],
+          "type": "node",
+          "envFile": "${workspaceFolder}/.env"
+        },
       ]
 }
