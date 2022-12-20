@@ -23,8 +23,8 @@ exports.getMeetingInfo = async (meetingId) => {
     initDynamoDBClient();
     // Set the input parameters
     const input = {
-        // TableName: process.env.DYNAMODB_TABLE_NAME,
-        TableName: "onboarding",
+        TableName: process.env.DYNAMODB_TABLE_NAME,
+        // TableName: "onboarding",
         Key: marshall({
             "PK": `MEETING#${meetingId}`,
             "SK": `MEETING#${meetingId}`,
@@ -41,8 +41,8 @@ exports.getMeetingList = async (eventId) => {
     initDynamoDBClient();
 
     const input = {
-        // TableName: process.env.DYNAMODB_TABLE_NAME,
-        TableName: "onboarding",
+        TableName: process.env.DYNAMODB_TABLE_NAME,
+        // TableName: "onboarding",
         IndexName: "GSI1PK-GSI1SK-index",
         ScanIndexForward: true,
         KeyConditionExpression: "#GSI1PK = :GSI1PK",
@@ -104,8 +104,8 @@ exports.createMeeting = async (eventId, type, meetingId, title, lastActionAt, la
     initDynamoDBClient();
 
     const input = {
-        // TableName: process.env.DYNAMODB_TABLE_NAME,
-        TableName: "onboarding",
+        TableName: process.env.DYNAMODB_TABLE_NAME,
+        // TableName: "onboarding",
 
         Item: marshall({
             "PK": `MEETING#${meetingId}`,
@@ -138,8 +138,8 @@ exports.updateMeeting = async (meetingId, status, title, type) => {
     initDynamoDBClient();
 
     const input = {
-        // TableName: process.env.DYNAMODB_TABLE_NAME,
-        TableName: "onboarding",
+        TableName: process.env.DYNAMODB_TABLE_NAME,
+        // TableName: "onboarding",
         Key: marshall({
             "PK": `MEETING#${meetingId}`,
             "SK": `MEETING#${meetingId}`
@@ -166,8 +166,8 @@ exports.updateMeetingCheckIns = async (meetingId, checkIns) => {
     initDynamoDBClient();
 
     const input = {
-        // TableName: process.env.DYNAMODB_TABLE_NAME,
-        TableName: "onboarding",
+        TableName: process.env.DYNAMODB_TABLE_NAME,
+        // TableName: "onboarding",
         Key: marshall({
             "PK": `MEETING#${meetingId}`,
             "SK": `MEETING#${meetingId}`
