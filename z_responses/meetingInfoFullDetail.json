@@ -1,0 +1,99 @@
+{
+  "requiredParticipant": {
+    "company": "TurnoutNow",
+    "lastName": "Malik",
+    "email": "vishwaraj.malik@turnoutnow.com",
+    "id": "12884602",
+    "jobTitle": "Dev Team",
+    "firstName": "Vishwaraj",
+    "profileImageUrl": "https://pcassets.turnoutnow.com/olVYX2q4SOBUScjFVCGhx/assets/profileImages/01G9Q52KF57186Z9ECMYTJ88ES.png"
+  },
+  "status": "ACCEPTED",
+  "GSI1SK": "ACCEPTED#40k2-iUflsQ0OoKJS7tgz",
+  "optionalParticipantIds": [
+    {
+      "company": "TurnoutNow LLC.",
+      "lastName": "Talwar",
+      "email": "robin.talwar@turnoutnow.com",
+      "id": "12920522",
+      "jobTitle": "Team lead",
+      "firstName": "Robin",
+      "profileImageUrl": "https://pcassets.turnoutnow.com/olVYX2q4SOBUScjFVCGhx/assets/profileImages/01G94T46W844F04Z2915Q4AAB0.jpg"
+    }
+  ],
+  "meetingId": "40k2-iUflsQ0OoKJS7tgz",
+  "notes": [
+    {
+      "createdAt": "2022-08-02T12:04:21.174Z",
+      "noteId": "IARE1S-tYTv_-Jef36uaq",
+      "content": "accepted",
+      "createdById": "12884602"
+    },
+    {
+      "createdAt": "2022-08-02T11:13:40.015Z",
+      "noteId": "a3kJ-T5T6YN4rmcBdGBzc",
+      "content": "demo demo",
+      "createdById": "12920522"
+    }
+  ],
+  "checkIns": [
+    {
+      "participantType": "User",
+      "checkInAt": "18:10",
+      "userId": "5007",
+      "checkInStatus": "NoShow"
+    },
+    {
+      "participantType": "User",
+      "checkInAt": "18:15",
+      "userId": "5008",
+      "checkInStatus": "Present"
+    },
+    {
+      "participantType": "organiser",
+      "checkInAt": "18:20",
+      "userId": "5009",
+      "checkInStatus": "present"
+    },
+    {
+      "participantType": "USER",
+      "checkInAt": "2022-12-13T12:53:57.346Z",
+      "userId": "5010",
+      "checkInStatus": "CheckedIn"
+    }
+  ],
+  "SK": "MEETING#40k2-iUflsQ0OoKJS7tgz",
+  "eventId": "olVYX2q4SOBUScjFVCGhx",
+  "version": 2,
+  "location": {
+    "name": "Enter your meeting location",
+    "value": "",
+    "code": ""
+  },
+  "organizerId": "12920522",
+  "participants": {
+    "8140758": "PENDING",
+    "12884602": "ACCEPTED",
+    "12920522": "ACCEPTED"
+  },
+  "createdAt": "2022-08-02T11:13:40.015Z",
+  "startTime": "2022-08-09T07:30:00.000Z",
+  "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+  "endTime": "2022-08-09T07:45:00.000Z",
+  "lastActionById": "12884602",
+  "lastActionType": "ACCEPT",
+  "updatedAt": "2022-08-02T12:04:21.174Z",
+  "PK": "MEETING#40k2-iUflsQ0OoKJS7tgz",
+  "lastActionAt": "2022-08-02T12:04:21.174Z",
+  "title": "Testing",
+  "type": "Meeting",
+  "organizer": {
+    "company": "TurnoutNow LLC.",
+    "lastName": "Bansal",
+    "email": "sunil.bansal@turnoutnow.com",
+    "id": "8140758",
+    "jobTitle": "Project Manager",
+    "firstName": "Sunil",
+    "profileImageUrl": "https://images.unsplash.com/photo-1651421311530-7be8dd4f659f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  }
+}

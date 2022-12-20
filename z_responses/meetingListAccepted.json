@@ -1,0 +1,592 @@
+[
+  {
+    "requiredParticipant": { "itemType": "USER", "id": "12884602" },
+    "status": "ACCEPTED",
+    "GSI1SK": "ACCEPTED#40k2-iUflsQ0OoKJS7tgz",
+    "optionalParticipantIds": ["8140758"],
+    "meetingId": "40k2-iUflsQ0OoKJS7tgz",
+    "notes": {
+      "IARE1S-tYTv_-Jef36uaq": {
+        "createdAt": "2022-08-02T12:04:21.174Z",
+        "noteId": "IARE1S-tYTv_-Jef36uaq",
+        "content": "accepted",
+        "createdById": "12884602"
+      },
+      "a3kJ-T5T6YN4rmcBdGBzc": {
+        "createdAt": "2022-08-02T11:13:40.015Z",
+        "noteId": "a3kJ-T5T6YN4rmcBdGBzc",
+        "content": "demo demo",
+        "createdById": "12920522"
+      }
+    },
+    "checkIns": [
+      {
+        "participantType": "User",
+        "checkInAt": "18:10",
+        "userId": "5007",
+        "checkInStatus": "NoShow"
+      },
+      {
+        "participantType": "User",
+        "checkInAt": "18:15",
+        "userId": "5008",
+        "checkInStatus": "Present"
+      },
+      {
+        "participantType": "organiser",
+        "checkInAt": "18:20",
+        "userId": "5009",
+        "checkInStatus": "present"
+      },
+      {
+        "participantType": "USER",
+        "checkInAt": "2022-12-13T12:53:57.346Z",
+        "userId": "5010",
+        "checkInStatus": "CheckedIn"
+      }
+    ],
+    "SK": "MEETING#40k2-iUflsQ0OoKJS7tgz",
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "version": 2,
+    "organizerId": "12920522",
+    "location": {
+      "name": "Enter your meeting location",
+      "value": "",
+      "code": ""
+    },
+    "participants": {
+      "8140758": "PENDING",
+      "12884602": "ACCEPTED",
+      "12920522": "ACCEPTED"
+    },
+    "createdAt": "2022-08-02T11:13:40.015Z",
+    "startTime": "2022-08-09T07:30:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "endTime": "2022-08-09T07:45:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-08-02T12:04:21.174Z",
+    "PK": "MEETING#40k2-iUflsQ0OoKJS7tgz",
+    "lastActionAt": "2022-08-02T12:04:21.174Z",
+    "type": "Meeting",
+    "title": "Testing"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140810",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "googlemeet",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": {
+      "8140758": "PENDING",
+      "8140810": "ACCEPTED",
+      "12884602": "ACCEPTED"
+    },
+    "requiredParticipant": { "itemType": "USER", "id": "12884602" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-07-27T12:38:52.460Z",
+    "GSI1SK": "ACCEPTED#5pzQIClszCuxhMXU7UbhP",
+    "optionalParticipantIds": ["8140758"],
+    "startTime": "2022-08-11T07:15:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "5pzQIClszCuxhMXU7UbhP",
+    "endTime": "2022-08-11T07:30:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-07-27T14:48:21.905Z",
+    "notes": {
+      "uKhl0u3xNW6kIN1Iv-Xw1": {
+        "createdAt": "2022-07-27T12:38:52.460Z",
+        "noteId": "uKhl0u3xNW6kIN1Iv-Xw1",
+        "content": "lets discuss the agenda",
+        "createdById": "8140810"
+      },
+      "evk3xzgaydCApXjcuQIuK": {
+        "createdAt": "2022-07-27T14:48:21.905Z",
+        "noteId": "evk3xzgaydCApXjcuQIuK",
+        "content": "1",
+        "createdById": "12884602"
+      }
+    },
+    "checkIns": null,
+    "SK": "MEETING#5pzQIClszCuxhMXU7UbhP",
+    "PK": "MEETING#5pzQIClszCuxhMXU7UbhP",
+    "lastActionAt": "2022-07-27T14:48:21.905Z",
+    "type": "Meeting",
+    "title": "Vicky 1st -Sunil Optional"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12884602",
+    "location": {
+      "name": "Enter your meeting location",
+      "value": "",
+      "code": ""
+    },
+    "participants": {
+      "8140758": "PENDING",
+      "12884602": "ACCEPTED",
+      "12920522": "ACCEPTED"
+    },
+    "requiredParticipant": { "itemType": "USER", "id": "12920522" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-08-04T08:31:12.890Z",
+    "GSI1SK": "ACCEPTED#6kEDu1vcmRzVsjwkrGGqQ",
+    "optionalParticipantIds": ["8140758"],
+    "startTime": "2022-08-12T07:15:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "6kEDu1vcmRzVsjwkrGGqQ",
+    "endTime": "2022-08-12T07:30:00.000Z",
+    "lastActionById": "12920522",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-08-04T08:32:56.715Z",
+    "notes": {
+      "_klY88VHDxI8sxRV4PgEd": {
+        "createdAt": "2022-08-04T08:31:12.890Z",
+        "noteId": "_klY88VHDxI8sxRV4PgEd",
+        "content": "Testing Testing",
+        "createdById": "12884602"
+      }
+    },
+    "SK": "MEETING#6kEDu1vcmRzVsjwkrGGqQ",
+    "PK": "MEETING#6kEDu1vcmRzVsjwkrGGqQ",
+    "lastActionAt": "2022-08-04T08:32:56.715Z",
+    "type": "Meeting",
+    "title": "Test"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140810",
+    "location": {
+      "name": "Enter your meeting location",
+      "value": "",
+      "code": ""
+    },
+    "participants": { "8140810": "ACCEPTED", "12884602": "ACCEPTED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12884602" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-05-19T13:10:30.618Z",
+    "GSI1SK": "ACCEPTED#8V9iU_v6eINhzV38Lrf0b",
+    "startTime": "2022-06-15T06:45:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "8V9iU_v6eINhzV38Lrf0b",
+    "endTime": "2022-06-15T07:00:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-05-19T13:13:10.973Z",
+    "notes": {
+      "VsKk-7Ob5bML8jQzIMjxc": {
+        "createdAt": "2022-05-19T13:13:10.973Z",
+        "noteId": "VsKk-7Ob5bML8jQzIMjxc",
+        "content": "test meet",
+        "createdById": "12884602"
+      },
+      "fQ0UCiq3X44JxwWwVZ_cI": {
+        "createdAt": "2022-05-19T13:10:30.618Z",
+        "noteId": "fQ0UCiq3X44JxwWwVZ_cI",
+        "content": "Lastday-lastslotIST",
+        "createdById": "8140810"
+      }
+    },
+    "SK": "MEETING#8V9iU_v6eINhzV38Lrf0b",
+    "PK": "MEETING#8V9iU_v6eINhzV38Lrf0b",
+    "lastActionAt": "2022-05-19T13:13:10.973Z",
+    "type": "Meeting",
+    "title": "Test Meeting-Lastday-lastslotIST"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12884602",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "https://zoom.us",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": {
+      "8140810": "ACCEPTED",
+      "12884602": "ACCEPTED",
+      "12920522": "ACCEPTED"
+    },
+    "requiredParticipant": { "itemType": "USER", "id": "12920522" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-05-16T13:16:50.304Z",
+    "GSI1SK": "ACCEPTED#92Z4vrC2sL684b9ShbQ4T",
+    "optionalParticipantIds": ["8140810"],
+    "startTime": "2022-05-17T07:30:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "92Z4vrC2sL684b9ShbQ4T",
+    "endTime": "2022-05-17T07:45:00.000Z",
+    "lastActionById": "8140810",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-05-18T06:22:53.713Z",
+    "notes": {
+      "P_iXjU4bsM6-wv59ogmgp": {
+        "createdAt": "2022-05-16T13:16:50.304Z",
+        "noteId": "P_iXjU4bsM6-wv59ogmgp",
+        "content": "Test meet with RT and SK note",
+        "createdById": "12884602"
+      },
+      "INXBDB8rXaee-_BOjBrM9": {
+        "createdAt": "2022-05-16T13:19:10.075Z",
+        "noteId": "INXBDB8rXaee-_BOjBrM9",
+        "content": "accepting as required participant",
+        "createdById": "12920522"
+      },
+      "-rW6PQW7-FKYyPwDiJ8P7": {
+        "createdAt": "2022-05-18T06:22:53.713Z",
+        "noteId": "-rW6PQW7-FKYyPwDiJ8P7",
+        "content": "accepting",
+        "createdById": "8140810"
+      }
+    },
+    "SK": "MEETING#92Z4vrC2sL684b9ShbQ4T",
+    "PK": "MEETING#92Z4vrC2sL684b9ShbQ4T",
+    "lastActionAt": "2022-05-18T06:22:53.713Z",
+    "type": "Meeting",
+    "title": "Test meet with RT and SK"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12884602",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "http://localhost:3001/",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "12884602": "ACCEPTED", "12920522": "ACCEPTED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12920522" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-06-28T05:57:28.119Z",
+    "GSI1SK": "ACCEPTED#AerDY6mezy5PhLNQBZPr9",
+    "startTime": "2022-08-08T08:00:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "AerDY6mezy5PhLNQBZPr9",
+    "endTime": "2022-08-08T08:15:00.000Z",
+    "lastActionById": "12920522",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-07-26T10:05:23.000Z",
+    "notes": {
+      "tQMa5_xXmAxTUn-sXIT3t": {
+        "createdAt": "2022-06-28T05:57:28.119Z",
+        "noteId": "tQMa5_xXmAxTUn-sXIT3t",
+        "content": "Test",
+        "createdById": "12884602"
+      }
+    },
+    "SK": "MEETING#AerDY6mezy5PhLNQBZPr9",
+    "PK": "MEETING#AerDY6mezy5PhLNQBZPr9",
+    "lastActionAt": "2022-07-26T10:05:23.000Z",
+    "title": "Test meeting ABC topic XYZ",
+    "type": "Meeting"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140810",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "http://skype.com",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "8140810": "ACCEPTED", "12920522": "ACCEPTED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12920522" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-06-23T11:54:29.772Z",
+    "GSI1SK": "ACCEPTED#BnsoTU8eCM8CD2Em2_JF7",
+    "startTime": "2022-08-08T07:00:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "BnsoTU8eCM8CD2Em2_JF7",
+    "endTime": "2022-08-08T07:15:00.000Z",
+    "lastActionById": "12920522",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-06-23T11:55:36.430Z",
+    "notes": {
+      "bBUVn-SoV3A373tXQpyy0": {
+        "createdAt": "2022-06-23T11:55:36.430Z",
+        "noteId": "bBUVn-SoV3A373tXQpyy0",
+        "content": "accept  from Satvinder for Aug. 8- 12:30 pm - 12:45 pm",
+        "createdById": "12920522"
+      }
+    },
+    "SK": "MEETING#BnsoTU8eCM8CD2Em2_JF7",
+    "PK": "MEETING#BnsoTU8eCM8CD2Em2_JF7",
+    "lastActionAt": "2022-06-23T11:55:36.430Z",
+    "type": "Meeting",
+    "title": "SK to RT 8thAug"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12884602",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "https://zoom.us",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "12884602": "ACCEPTED", "12920522": "ACCEPTED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12920522" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-06-23T11:48:12.860Z",
+    "GSI1SK": "ACCEPTED#Cdgqk2JskVFIsS0uqRYOS",
+    "startTime": "2022-08-08T07:00:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "Cdgqk2JskVFIsS0uqRYOS",
+    "endTime": "2022-08-08T07:15:00.000Z",
+    "lastActionById": "12920522",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-06-23T11:56:20.408Z",
+    "notes": {
+      "jARhWapySymnz5caDdjtM": {
+        "createdAt": "2022-06-23T11:48:12.860Z",
+        "noteId": "jARhWapySymnz5caDdjtM",
+        "content": "Meet at 8th Aug",
+        "createdById": "12884602"
+      },
+      "4e6x24mjgk0TbvhIGZguF": {
+        "createdAt": "2022-06-23T11:56:20.408Z",
+        "noteId": "4e6x24mjgk0TbvhIGZguF",
+        "content": "accept  from Vicky for Aug. 8- 12:30 pm - 12:45 pm",
+        "createdById": "12920522"
+      }
+    },
+    "SK": "MEETING#Cdgqk2JskVFIsS0uqRYOS",
+    "PK": "MEETING#Cdgqk2JskVFIsS0uqRYOS",
+    "lastActionAt": "2022-06-23T11:56:20.408Z",
+    "type": "Meeting",
+    "title": "Meet 8th Aug"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140810",
+    "location": {
+      "name": "Enter your meeting location",
+      "value": "",
+      "code": ""
+    },
+    "participants": { "8140810": "ACCEPTED", "12920522": "ACCEPTED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12920522" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-05-19T13:09:29.058Z",
+    "GSI1SK": "ACCEPTED#NdvBqX0Cg9rpukzvP1cyM",
+    "startTime": "2022-05-21T07:45:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "NdvBqX0Cg9rpukzvP1cyM",
+    "endTime": "2022-05-21T08:00:00.000Z",
+    "lastActionById": "12920522",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-08-01T08:17:02.714Z",
+    "notes": {
+      "q9idGnrdwCQOIpd1sj35b": {
+        "createdAt": "2022-05-19T13:09:29.058Z",
+        "noteId": "q9idGnrdwCQOIpd1sj35b",
+        "content": "test meeting",
+        "createdById": "8140810"
+      }
+    },
+    "SK": "MEETING#NdvBqX0Cg9rpukzvP1cyM",
+    "PK": "MEETING#NdvBqX0Cg9rpukzvP1cyM",
+    "lastActionAt": "2022-08-01T08:17:02.714Z",
+    "type": "Meeting",
+    "title": "Test Meeting21May;1:15"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140810",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "URL",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "8140810": "ACCEPTED", "12884602": "ACCEPTED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12884602" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-05-19T13:08:25.096Z",
+    "GSI1SK": "ACCEPTED#SQQs4fXKoQ1Z793wiaNRO",
+    "startTime": "2022-05-21T07:45:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "SQQs4fXKoQ1Z793wiaNRO",
+    "endTime": "2022-05-21T08:00:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-05-19T13:14:04.110Z",
+    "notes": {
+      "suoW361QxCACJgJOxlQWi": {
+        "createdAt": "2022-05-19T13:14:04.110Z",
+        "noteId": "suoW361QxCACJgJOxlQWi",
+        "content": "accepting",
+        "createdById": "12884602"
+      },
+      "vUdd5yCaYFWxpx6yt3zp1": {
+        "createdAt": "2022-05-19T13:08:25.096Z",
+        "noteId": "vUdd5yCaYFWxpx6yt3zp1",
+        "content": "test notes",
+        "createdById": "8140810"
+      }
+    },
+    "SK": "MEETING#SQQs4fXKoQ1Z793wiaNRO",
+    "PK": "MEETING#SQQs4fXKoQ1Z793wiaNRO",
+    "lastActionAt": "2022-05-19T13:14:04.110Z",
+    "type": "Meeting",
+    "title": "Test Meeting"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140810",
+    "location": {
+      "name": "Enter your meeting location",
+      "value": "",
+      "code": ""
+    },
+    "participants": { "8140810": "ACCEPTED", "12920522": "ACCEPTED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12920522" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-05-19T13:11:26.332Z",
+    "GSI1SK": "ACCEPTED#_rishomYLwEFV7aIMyvrS",
+    "startTime": "2022-06-15T06:45:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "_rishomYLwEFV7aIMyvrS",
+    "endTime": "2022-06-15T07:00:00.000Z",
+    "lastActionById": "12920522",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-07-26T14:25:02.743Z",
+    "notes": {
+      "yNizisCh6xBGjv_RPDyOV": {
+        "createdAt": "2022-05-19T13:11:26.332Z",
+        "noteId": "yNizisCh6xBGjv_RPDyOV",
+        "content": "test 1-1 with robin",
+        "createdById": "8140810"
+      },
+      "0VkxGOzGJIPRqqjBnchXJ": {
+        "createdAt": "2022-07-26T14:25:02.743Z",
+        "noteId": "0VkxGOzGJIPRqqjBnchXJ",
+        "content": "Thank you ",
+        "createdById": "12920522"
+      }
+    },
+    "SK": "MEETING#_rishomYLwEFV7aIMyvrS",
+    "PK": "MEETING#_rishomYLwEFV7aIMyvrS",
+    "lastActionAt": "2022-07-26T14:25:02.743Z",
+    "type": "Meeting",
+    "title": "Test Meeting-Lastday-lastslotIST"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12884602",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "https://zoom.us/",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "8140810": "ACCEPTED", "12884602": "ACCEPTED" },
+    "requiredParticipant": { "itemType": "USER", "id": "8140810" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-07-27T08:30:29.015Z",
+    "GSI1SK": "ACCEPTED#g_wTuWa5nDW8bAbaDnUxn",
+    "startTime": "2022-08-14T04:30:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "g_wTuWa5nDW8bAbaDnUxn",
+    "endTime": "2022-08-14T04:45:00.000Z",
+    "lastActionById": "8140810",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-07-27T12:35:46.079Z",
+    "notes": {
+      "M9IMbtKaGXdZvNcFwK6zk": {
+        "createdAt": "2022-07-27T08:30:29.015Z",
+        "noteId": "M9IMbtKaGXdZvNcFwK6zk",
+        "content": "te$t meeeting AUG 13 10pm",
+        "createdById": "12884602"
+      },
+      "XAyU6R4wvZjB-qBuMByEa": {
+        "createdAt": "2022-07-27T12:35:46.079Z",
+        "noteId": "XAyU6R4wvZjB-qBuMByEa",
+        "content": "accepting",
+        "createdById": "8140810"
+      }
+    },
+    "SK": "MEETING#g_wTuWa5nDW8bAbaDnUxn",
+    "PK": "MEETING#g_wTuWa5nDW8bAbaDnUxn",
+    "lastActionAt": "2022-07-27T12:35:46.079Z",
+    "type": "Meeting",
+    "title": "test meeting request AUG 13 - 10pm"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12920522",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "URL",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "12884602": "ACCEPTED", "12920522": "ACCEPTED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12884602" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-05-16T13:17:28.224Z",
+    "GSI1SK": "ACCEPTED#kWqF4tLDyoYH0xhLnRym1",
+    "startTime": "2022-05-16T13:30:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "kWqF4tLDyoYH0xhLnRym1",
+    "endTime": "2022-05-16T13:45:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-05-16T13:19:44.771Z",
+    "notes": {
+      "YYIWMdnmxIlvwfX9n9ZBr": {
+        "createdAt": "2022-05-16T13:17:28.225Z",
+        "noteId": "YYIWMdnmxIlvwfX9n9ZBr",
+        "content": "Meeting @7pm IST, Scheduling @6:47pm IST, 16 May",
+        "createdById": "12920522"
+      },
+      "dJqxCI-6fLzzRz22987Q1": {
+        "createdAt": "2022-05-16T13:19:44.771Z",
+        "noteId": "dJqxCI-6fLzzRz22987Q1",
+        "content": "accepting",
+        "createdById": "12884602"
+      }
+    },
+    "SK": "MEETING#kWqF4tLDyoYH0xhLnRym1",
+    "PK": "MEETING#kWqF4tLDyoYH0xhLnRym1",
+    "lastActionAt": "2022-05-16T13:19:44.771Z",
+    "type": "Meeting",
+    "title": "Test Meeting"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12920522",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "http://localhost:3001/",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "12884602": "ACCEPTED", "12920522": "ACCEPTED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12884602" },
+    "status": "ACCEPTED",
+    "createdAt": "2022-07-28T13:14:49.753Z",
+    "GSI1SK": "ACCEPTED#xC7rRzsspFItq6CBUv05q",
+    "startTime": "2022-08-09T07:15:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "xC7rRzsspFItq6CBUv05q",
+    "endTime": "2022-08-09T07:30:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-08-02T12:04:46.215Z",
+    "notes": {
+      "L75h5CtbnVJwr_ZIzIGOp": {
+        "createdAt": "2022-07-28T13:14:49.753Z",
+        "noteId": "L75h5CtbnVJwr_ZIzIGOp",
+        "content": "test",
+        "createdById": "12920522"
+      },
+      "sgXgMMfccFmWGSASslBhO": {
+        "createdAt": "2022-08-02T12:04:46.215Z",
+        "noteId": "sgXgMMfccFmWGSASslBhO",
+        "content": "accepted",
+        "createdById": "12884602"
+      }
+    },
+    "SK": "MEETING#xC7rRzsspFItq6CBUv05q",
+    "PK": "MEETING#xC7rRzsspFItq6CBUv05q",
+    "lastActionAt": "2022-08-02T12:04:46.215Z",
+    "type": "Meeting",
+    "title": "Test meeting ABC topic XYZ"
+  }
+]

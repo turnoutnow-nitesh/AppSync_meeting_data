@@ -1,0 +1,506 @@
+[
+  {
+    "requiredParticipant": { "itemType": "USER", "id": "8140810" },
+    "status": "CANCELED",
+    "GSI1SK": "CANCELED#20_FbPDlnJ0QXgLJk7G9p",
+    "optionalParticipantIds": ["14960771"],
+    "declinedBy": "8140810",
+    "meetingId": "20_FbPDlnJ0QXgLJk7G9p",
+    "notes": {
+      "RokWBxC0r_IQrld6fF2Sx": {
+        "createdAt": "2022-07-27T08:23:32.755Z",
+        "noteId": "RokWBxC0r_IQrld6fF2Sx",
+        "content": "test",
+        "createdById": "12884602"
+      },
+      "VoUPUHAiWr45DHG2h7-E_": {
+        "createdAt": "2022-07-27T12:36:07.356Z",
+        "noteId": "VoUPUHAiWr45DHG2h7-E_",
+        "content": "declining",
+        "createdById": "8140810"
+      }
+    },
+    "checkIns": [
+      {
+        "participantType": "Organization",
+        "checkInAt": "1:45",
+        "userId": "u1100",
+        "checkInStatus": "NoShow"
+      },
+      {
+        "participantType": "User",
+        "checkInAt": "12:27",
+        "userId": "u1101",
+        "checkInStatus": "checkedIn"
+      },
+      {
+        "participantType": "User",
+        "checkInAt": "12:46",
+        "userId": "u1102",
+        "checkInStatus": "No Show"
+      },
+      {
+        "participantType": "USER",
+        "checkInAt": "12:52",
+        "userId": "u1017",
+        "checkInStatus": "CheckedIn"
+      },
+      {
+        "participantType": "USER",
+        "checkInAt": "1:55",
+        "userId": "u1018",
+        "checkInStatus": "NoShow"
+      },
+      {
+        "participantType": "USER",
+        "checkInAt": "1:55",
+        "userId": "u1013",
+        "checkInStatus": "ChekedIn"
+      },
+      {
+        "participantType": "USER",
+        "checkInAt": "1:55",
+        "userId": "u1010",
+        "checkInStatus": "Noshow"
+      },
+      {
+        "participantType": "Organizer",
+        "checkInAt": "1:45",
+        "userId": "u1109",
+        "checkInStatus": "NoShow"
+      }
+    ],
+    "SK": "MEETING#20_FbPDlnJ0QXgLJk7G9p",
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12884602",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "https://web.zoom.us",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": {
+      "8140810": "CANCELED",
+      "12884602": "CANCELED",
+      "14960771": "CANCELED"
+    },
+    "createdAt": "2022-07-27T08:23:32.755Z",
+    "startTime": "2022-08-14T07:30:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "endTime": "2022-08-14T07:45:00.000Z",
+    "lastActionById": "8140810",
+    "lastActionType": "DECLINE",
+    "updatedAt": "2022-07-27T12:36:07.356Z",
+    "PK": "MEETING#20_FbPDlnJ0QXgLJk7G9p",
+    "lastActionAt": "2022-07-27T12:36:07.356Z",
+    "type": "Meeting",
+    "title": "test meeting request AUG 14 - 1pm"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140758",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "teams",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": {
+      "8140758": "CANCELED",
+      "8140810": "CANCELED",
+      "12884602": "CANCELED"
+    },
+    "requiredParticipant": { "itemType": "USER", "id": "8140810" },
+    "status": "CANCELED",
+    "createdAt": "2022-07-27T08:22:02.395Z",
+    "GSI1SK": "CANCELED#8PAoWnyyQskNQ0eAD8Ca_",
+    "optionalParticipantIds": ["12884602"],
+    "startTime": "2022-08-09T07:00:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "declinedBy": "8140810",
+    "meetingId": "8PAoWnyyQskNQ0eAD8Ca_",
+    "endTime": "2022-08-09T07:15:00.000Z",
+    "lastActionById": "8140810",
+    "lastActionType": "DECLINE",
+    "updatedAt": "2022-07-27T12:36:25.155Z",
+    "notes": {
+      "qLX0ERnitpKplMN2z3juZ": {
+        "createdAt": "2022-07-27T08:22:02.395Z",
+        "noteId": "qLX0ERnitpKplMN2z3juZ",
+        "content": "test meeting 1",
+        "createdById": "8140758"
+      },
+      "lJk8mpdcV_7FUXfXfQXWy": {
+        "createdAt": "2022-07-27T08:25:21.536Z",
+        "noteId": "lJk8mpdcV_7FUXfXfQXWy",
+        "content": "Accepted",
+        "createdById": "12884602"
+      },
+      "yaGxZ3wiDUKYMpeJp7JYY": {
+        "createdAt": "2022-07-27T12:36:25.155Z",
+        "noteId": "yaGxZ3wiDUKYMpeJp7JYY",
+        "content": "declining",
+        "createdById": "8140810"
+      }
+    },
+    "SK": "MEETING#8PAoWnyyQskNQ0eAD8Ca_",
+    "PK": "MEETING#8PAoWnyyQskNQ0eAD8Ca_",
+    "lastActionAt": "2022-07-27T12:36:25.155Z",
+    "type": "Meeting",
+    "title": "test meeting 1"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12884602",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "URL",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "8140810": "CANCELED", "12884602": "CANCELED" },
+    "requiredParticipant": { "itemType": "USER", "id": "8140810" },
+    "status": "CANCELED",
+    "createdAt": "2022-05-19T13:16:41.898Z",
+    "GSI1SK": "CANCELED#8UiSgVWSGZottclXH4Jbb",
+    "canceledBy": "12884602",
+    "startTime": "2022-06-15T06:45:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "8UiSgVWSGZottclXH4Jbb",
+    "endTime": "2022-06-15T07:00:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "CANCEL",
+    "updatedAt": "2022-07-28T06:49:48.373Z",
+    "notes": {
+      "41AofEfCu6WGrziRwQpb4": {
+        "createdAt": "2022-05-19T13:16:41.898Z",
+        "noteId": "41AofEfCu6WGrziRwQpb4",
+        "content": "test same time slot, which is already accepted",
+        "createdById": "12884602"
+      },
+      "COGBm4wR_9JXWV2yONhyo": {
+        "createdAt": "2022-07-28T06:49:48.373Z",
+        "noteId": "COGBm4wR_9JXWV2yONhyo",
+        "content": "test cancel",
+        "createdById": "12884602"
+      }
+    },
+    "SK": "MEETING#8UiSgVWSGZottclXH4Jbb",
+    "PK": "MEETING#8UiSgVWSGZottclXH4Jbb",
+    "lastActionAt": "2022-07-28T06:49:48.373Z",
+    "type": "Meeting",
+    "title": "Test Meeting-Lastday-lastslotIST-From VM to SK"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140810",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "URL",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "8140810": "CANCELED", "12884602": "CANCELED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12884602" },
+    "status": "CANCELED",
+    "createdAt": "2022-05-18T06:21:39.186Z",
+    "GSI1SK": "CANCELED#P2ukGNGwdTwV0hxIJop1P",
+    "startTime": "2022-05-18T06:30:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "declinedBy": "12884602",
+    "meetingId": "P2ukGNGwdTwV0hxIJop1P",
+    "endTime": "2022-05-18T06:45:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "DECLINE",
+    "updatedAt": "2022-05-19T13:15:04.769Z",
+    "notes": {
+      "28C0m6EM-TbhysBRIU9a6": {
+        "createdAt": "2022-05-19T13:15:04.769Z",
+        "noteId": "28C0m6EM-TbhysBRIU9a6",
+        "content": "decline again",
+        "createdById": "12884602"
+      },
+      "AkM-Wdbq7ANhRX9LkdZvz": {
+        "createdAt": "2022-05-18T06:21:39.186Z",
+        "noteId": "AkM-Wdbq7ANhRX9LkdZvz",
+        "content": "1-1, virtual 18 May 12:00 IST",
+        "createdById": "8140810"
+      }
+    },
+    "SK": "MEETING#P2ukGNGwdTwV0hxIJop1P",
+    "PK": "MEETING#P2ukGNGwdTwV0hxIJop1P",
+    "lastActionAt": "2022-05-19T13:15:04.769Z",
+    "type": "Meeting",
+    "title": "Test Meeting"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12884602",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "https://zoom.us/",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "8140758": "CANCELED", "12884602": "CANCELED" },
+    "requiredParticipant": { "itemType": "USER", "id": "8140758" },
+    "status": "CANCELED",
+    "createdAt": "2022-07-27T08:31:44.699Z",
+    "GSI1SK": "CANCELED#SP_vO01ULmgLbujr3xNwp",
+    "startTime": "2022-08-14T05:30:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "declinedBy": "8140758",
+    "meetingId": "SP_vO01ULmgLbujr3xNwp",
+    "endTime": "2022-08-14T05:45:00.000Z",
+    "lastActionById": "8140758",
+    "lastActionType": "DECLINE",
+    "updatedAt": "2022-07-27T08:33:43.893Z",
+    "notes": {
+      "44eV6_zOgUFvfGIU-8y2F": {
+        "createdAt": "2022-07-27T08:31:44.699Z",
+        "noteId": "44eV6_zOgUFvfGIU-8y2F",
+        "content": "request AUG 13 - 11pm",
+        "createdById": "12884602"
+      },
+      "nIaeBy5KKlKJVfnJu4CTa": {
+        "createdAt": "2022-07-27T08:33:43.893Z",
+        "noteId": "nIaeBy5KKlKJVfnJu4CTa",
+        "content": "cannot attend ",
+        "createdById": "8140758"
+      }
+    },
+    "SK": "MEETING#SP_vO01ULmgLbujr3xNwp",
+    "PK": "MEETING#SP_vO01ULmgLbujr3xNwp",
+    "lastActionAt": "2022-07-27T08:33:43.893Z",
+    "type": "Meeting",
+    "title": "test meeting request AUG 13 - 11pm"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140810",
+    "location": {
+      "name": "Enter your meeting location",
+      "value": "",
+      "code": ""
+    },
+    "participants": { "8140758": "CANCELED", "8140810": "CANCELED" },
+    "requiredParticipant": { "itemType": "USER", "id": "8140758" },
+    "status": "CANCELED",
+    "createdAt": "2022-05-18T07:10:02.796Z",
+    "GSI1SK": "CANCELED#UdfAaf-5IcmClwsXGuifT",
+    "startTime": "2022-05-18T07:15:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "declinedBy": "8140758",
+    "meetingId": "UdfAaf-5IcmClwsXGuifT",
+    "endTime": "2022-05-18T07:30:00.000Z",
+    "lastActionById": "8140758",
+    "lastActionType": "DECLINE",
+    "updatedAt": "2022-07-27T08:17:13.979Z",
+    "notes": {
+      "BHiz2WSvyLzCL2Aoz4e2Y": {
+        "createdAt": "2022-07-27T08:17:13.979Z",
+        "noteId": "BHiz2WSvyLzCL2Aoz4e2Y",
+        "content": "cannot attend test meeting",
+        "createdById": "8140758"
+      }
+    },
+    "SK": "MEETING#UdfAaf-5IcmClwsXGuifT",
+    "PK": "MEETING#UdfAaf-5IcmClwsXGuifT",
+    "lastActionAt": "2022-07-27T08:17:13.979Z",
+    "type": "Meeting",
+    "title": "Test Meeting"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12920522",
+    "location": {
+      "name": "Enter your meeting location",
+      "value": "",
+      "code": ""
+    },
+    "participants": {
+      "8140758": "CANCELED",
+      "12884602": "CANCELED",
+      "12920522": "CANCELED"
+    },
+    "requiredParticipant": { "itemType": "USER", "id": "12884602" },
+    "status": "CANCELED",
+    "createdAt": "2022-08-03T11:57:05.466Z",
+    "GSI1SK": "CANCELED#hk9ssnFYh8bNmjcV62yw7",
+    "optionalParticipantIds": ["8140758"],
+    "canceledBy": "12884602",
+    "startTime": "2022-08-10T07:30:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "hk9ssnFYh8bNmjcV62yw7",
+    "endTime": "2022-08-10T07:45:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "CANCEL",
+    "updatedAt": "2022-08-09T08:57:48.652Z",
+    "notes": {
+      "ZPWB-xAVqy7qEOUB30pR6": {
+        "createdAt": "2022-08-03T11:57:05.466Z",
+        "noteId": "ZPWB-xAVqy7qEOUB30pR6",
+        "content": "Test Test",
+        "createdById": "12920522"
+      }
+    },
+    "SK": "MEETING#hk9ssnFYh8bNmjcV62yw7",
+    "PK": "MEETING#hk9ssnFYh8bNmjcV62yw7",
+    "lastActionAt": "2022-08-09T08:57:48.652Z",
+    "type": "Meeting",
+    "title": "Test"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12884602",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "https://zoom.us",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "8140810": "CANCELED", "12884602": "CANCELED" },
+    "requiredParticipant": { "itemType": "USER", "id": "8140810" },
+    "status": "CANCELED",
+    "createdAt": "2022-07-01T10:24:00.975Z",
+    "GSI1SK": "CANCELED#n9h5AJUvGorPTgqR0va7s",
+    "canceledBy": "12884602",
+    "startTime": "2022-08-08T07:30:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "n9h5AJUvGorPTgqR0va7s",
+    "endTime": "2022-08-08T07:45:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "CANCEL",
+    "updatedAt": "2022-07-27T08:15:53.603Z",
+    "notes": {
+      "u1fSChQy9W4SVwTMXODPF": {
+        "createdAt": "2022-07-27T08:15:53.603Z",
+        "noteId": "u1fSChQy9W4SVwTMXODPF",
+        "content": "cancelled\n",
+        "createdById": "12884602"
+      },
+      "rTT11h2L7JkX43ZgjXTjx": {
+        "createdAt": "2022-07-01T10:24:00.975Z",
+        "noteId": "rTT11h2L7JkX43ZgjXTjx",
+        "content": "Meet with SK  July1",
+        "createdById": "12884602"
+      }
+    },
+    "SK": "MEETING#n9h5AJUvGorPTgqR0va7s",
+    "PK": "MEETING#n9h5AJUvGorPTgqR0va7s",
+    "lastActionAt": "2022-07-27T08:15:53.603Z",
+    "type": "Meeting",
+    "title": "Meet with SK  July1"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140810",
+    "location": {
+      "name": "Enter your meeting location",
+      "value": "",
+      "code": ""
+    },
+    "participants": { "8140810": "CANCELED", "12920522": "CANCELED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12920522" },
+    "status": "CANCELED",
+    "createdAt": "2022-05-18T07:09:31.721Z",
+    "GSI1SK": "CANCELED#oVLKRLmv2aGt0Kj9KPSO8",
+    "canceledBy": "12920522",
+    "startTime": "2022-05-18T07:15:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "oVLKRLmv2aGt0Kj9KPSO8",
+    "endTime": "2022-05-18T07:30:00.000Z",
+    "lastActionById": "12920522",
+    "lastActionType": "CANCEL",
+    "updatedAt": "2022-08-02T11:14:13.151Z",
+    "notes": {
+      "tQZTXs5qXt4VsHETPzP8R": {
+        "createdAt": "2022-08-02T11:07:58.036Z",
+        "noteId": "tQZTXs5qXt4VsHETPzP8R",
+        "content": "test test",
+        "createdById": "12920522"
+      }
+    },
+    "checkIns": ["6"],
+    "SK": "MEETING#oVLKRLmv2aGt0Kj9KPSO8",
+    "PK": "MEETING#oVLKRLmv2aGt0Kj9KPSO8",
+    "lastActionAt": "2022-08-02T11:14:13.151Z",
+    "type": "Meeting",
+    "title": "Test Meeting"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140810",
+    "location": {
+      "name": "Enter your meeting location",
+      "value": "",
+      "code": ""
+    },
+    "participants": { "8140810": "CANCELED", "12884602": "CANCELED" },
+    "requiredParticipant": { "itemType": "USER", "id": "12884602" },
+    "status": "CANCELED",
+    "createdAt": "2022-05-18T07:07:55.361Z",
+    "GSI1SK": "CANCELED#sFE970szsFcMT52EbKibD",
+    "startTime": "2022-05-18T07:15:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "declinedBy": "12884602",
+    "meetingId": "sFE970szsFcMT52EbKibD",
+    "endTime": "2022-05-18T07:30:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "DECLINE",
+    "updatedAt": "2022-05-19T13:14:46.769Z",
+    "notes": {
+      "q179qpeELfoE2LsnAKbJa": {
+        "createdAt": "2022-05-19T13:14:46.769Z",
+        "noteId": "q179qpeELfoE2LsnAKbJa",
+        "content": "declining test",
+        "createdById": "12884602"
+      }
+    },
+    "SK": "MEETING#sFE970szsFcMT52EbKibD",
+    "PK": "MEETING#sFE970szsFcMT52EbKibD",
+    "lastActionAt": "2022-05-19T13:14:46.769Z",
+    "type": "Meeting",
+    "title": "Test Meeting"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12884602",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "zoom.us",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": {
+      "8140810": "CANCELED",
+      "12884602": "CANCELED",
+      "12920522": "CANCELED"
+    },
+    "requiredParticipant": { "itemType": "USER", "id": "8140810" },
+    "status": "CANCELED",
+    "createdAt": "2022-07-27T07:36:12.498Z",
+    "GSI1SK": "CANCELED#wQOuh5OZLLTaUUlITrftZ",
+    "optionalParticipantIds": ["12920522"],
+    "canceledBy": "12884602",
+    "startTime": "2022-08-08T07:15:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "wQOuh5OZLLTaUUlITrftZ",
+    "endTime": "2022-08-08T07:30:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "CANCEL",
+    "updatedAt": "2022-07-27T07:49:36.745Z",
+    "notes": {
+      "LJaN9Zm3gBhjlgf0JpRTq": {
+        "createdAt": "2022-07-27T07:49:36.745Z",
+        "noteId": "LJaN9Zm3gBhjlgf0JpRTq",
+        "content": "cancelling for testing purpose",
+        "createdById": "12884602"
+      },
+      "Rm-V5iPj_s-KTnXv3ECkc": {
+        "createdAt": "2022-07-27T07:36:12.498Z",
+        "noteId": "Rm-V5iPj_s-KTnXv3ECkc",
+        "content": "Test Meeting",
+        "createdById": "12884602"
+      }
+    },
+    "SK": "MEETING#wQOuh5OZLLTaUUlITrftZ",
+    "PK": "MEETING#wQOuh5OZLLTaUUlITrftZ",
+    "lastActionAt": "2022-07-27T07:49:36.745Z",
+    "type": "Meeting",
+    "title": "Test Meeting"
+  }
+]

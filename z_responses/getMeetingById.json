@@ -1,0 +1,36 @@
+{
+  "eventId": "olVYX2q4SOBUScjFVCGhx",
+  "location": {
+    "name": "Enter your meeting location",
+    "value": "",
+    "code": ""
+  },
+  "organizerId": "8140810",
+  "participants": { "8140810": "CANCELED", "12920522": "CANCELED" },
+  "requiredParticipant": { "itemType": "USER", "id": "12920522" },
+  "status": "CANCELED",
+  "createdAt": "2022-05-18T07:09:31.721Z",
+  "GSI1SK": "CANCELED#oVLKRLmv2aGt0Kj9KPSO8",
+  "canceledBy": "12920522",
+  "startTime": "2022-05-18T07:15:00.000Z",
+  "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+  "endTime": "2022-05-18T07:30:00.000Z",
+  "meetingId": "oVLKRLmv2aGt0Kj9KPSO8",
+  "lastActionById": "12920522",
+  "lastActionType": "CANCEL",
+  "updatedAt": "2022-08-02T11:14:13.151Z",
+  "notes": {
+    "tQZTXs5qXt4VsHETPzP8R": {
+      "createdAt": "2022-08-02T11:07:58.036Z",
+      "noteId": "tQZTXs5qXt4VsHETPzP8R",
+      "content": "test test",
+      "createdById": "12920522"
+    }
+  },
+  "checkIns": ["6"],
+  "SK": "MEETING#oVLKRLmv2aGt0Kj9KPSO8",
+  "PK": "MEETING#oVLKRLmv2aGt0Kj9KPSO8",
+  "lastActionAt": "2022-08-02T11:14:13.151Z",
+  "title": "Test Meeting",
+  "type": "Meeting"
+}

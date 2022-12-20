@@ -1,0 +1,114 @@
+[
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12884602",
+    "location": {
+      "name": "Enter your meeting location",
+      "value": "",
+      "code": ""
+    },
+    "participants": {
+      "8140758": "PENDING",
+      "12884602": "PENDING",
+      "12920522": "PENDING"
+    },
+    "requiredParticipant": { "itemType": "USER", "id": "12920522" },
+    "status": "PENDING",
+    "createdAt": "2022-08-10T10:14:09.336Z",
+    "GSI1SK": "PENDING#DGAn-UjolIlB8qX211MnO",
+    "optionalParticipantIds": ["8140758"],
+    "startTime": "2022-08-10T09:30:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "DGAn-UjolIlB8qX211MnO",
+    "endTime": "2022-08-10T09:45:00.000Z",
+    "updatedAt": "2022-08-10T10:14:09.336Z",
+    "notes": {
+      "n9FZoonXDXnXMKXu6j6Ud": {
+        "createdAt": "2022-08-10T10:14:09.336Z",
+        "noteId": "n9FZoonXDXnXMKXu6j6Ud",
+        "content": "TEST",
+        "createdById": "12884602"
+      }
+    },
+    "SK": "MEETING#DGAn-UjolIlB8qX211MnO",
+    "PK": "MEETING#DGAn-UjolIlB8qX211MnO",
+    "type": "Meeting",
+    "title": "Testing"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "8140810",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "Teams",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": {
+      "8140758": "PENDING",
+      "8140810": "PENDING",
+      "12884602": "ACCEPTED"
+    },
+    "requiredParticipant": { "itemType": "USER", "id": "8140758" },
+    "status": "PENDING",
+    "createdAt": "2022-07-27T12:41:04.562Z",
+    "GSI1SK": "PENDING#JVloV7-kgWQgNe1YPgW-l",
+    "optionalParticipantIds": ["12884602"],
+    "startTime": "2022-08-11T07:00:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "JVloV7-kgWQgNe1YPgW-l",
+    "endTime": "2022-08-11T07:15:00.000Z",
+    "lastActionById": "12884602",
+    "lastActionType": "ACCEPT",
+    "updatedAt": "2022-07-27T14:48:35.797Z",
+    "notes": {
+      "PPCzCVS-Q0SPgAuP-wxPz": {
+        "createdAt": "2022-07-27T12:41:04.562Z",
+        "noteId": "PPCzCVS-Q0SPgAuP-wxPz",
+        "content": "Notes capture",
+        "createdById": "8140810"
+      },
+      "ymnUUWyRyvCJ_XHWnel7F": {
+        "createdAt": "2022-07-27T14:48:35.797Z",
+        "noteId": "ymnUUWyRyvCJ_XHWnel7F",
+        "content": "2",
+        "createdById": "12884602"
+      }
+    },
+    "SK": "MEETING#JVloV7-kgWQgNe1YPgW-l",
+    "PK": "MEETING#JVloV7-kgWQgNe1YPgW-l",
+    "lastActionAt": "2022-07-27T14:48:35.797Z",
+    "type": "Meeting",
+    "title": "Sunil 1st - Vicky optional"
+  },
+  {
+    "eventId": "olVYX2q4SOBUScjFVCGhx",
+    "organizerId": "12920522",
+    "location": {
+      "name": "Meet Virtually Online",
+      "value": "http://localhost:3001/",
+      "code": "3rdPartyVirtualMeeting"
+    },
+    "participants": { "8140758": "PENDING", "12920522": "PENDING" },
+    "requiredParticipant": { "itemType": "USER", "id": "8140758" },
+    "status": "PENDING",
+    "createdAt": "2022-08-09T10:20:50.534Z",
+    "GSI1SK": "PENDING#o8ur6m-wKi-CIsplCZ6KZ",
+    "startTime": "2022-08-11T07:45:00.000Z",
+    "GSI1PK": "EVENT#olVYX2q4SOBUScjFVCGhx#MEETING",
+    "meetingId": "o8ur6m-wKi-CIsplCZ6KZ",
+    "endTime": "2022-08-11T08:00:00.000Z",
+    "updatedAt": "2022-08-09T10:20:50.534Z",
+    "notes": {
+      "7mn1rz7zTnBMKrTbnL1Gn": {
+        "createdAt": "2022-08-09T10:20:50.534Z",
+        "noteId": "7mn1rz7zTnBMKrTbnL1Gn",
+        "content": "Thank you",
+        "createdById": "12920522"
+      }
+    },
+    "SK": "MEETING#o8ur6m-wKi-CIsplCZ6KZ",
+    "PK": "MEETING#o8ur6m-wKi-CIsplCZ6KZ",
+    "type": "Meeting",
+    "title": "Test meeting ABC topic XYZ"
+  }
+]

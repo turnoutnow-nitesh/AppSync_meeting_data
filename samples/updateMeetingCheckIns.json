@@ -1,0 +1,25 @@
+{
+  "arguments": {
+    "meetingId": "40k2-iUflsQ0OoKJS7tgz",
+    "checkIns": [
+      {
+        "checkInAt": "20:39",
+        "checkInStatus": "Present",
+        "participantType": "USER",
+        "userId": "1001"
+      },
+      {
+        "checkInAt": "20:39",
+        "checkInStatus": "No Show",
+        "participantType": "USER",
+        "userId": "1002"
+      },
+      {
+        "checkInAt": "20:39",
+        "checkInStatus": "Present",
+        "participantType": "USER",
+        "userId": "1003"
+      }
+    ]
+  }
+}
