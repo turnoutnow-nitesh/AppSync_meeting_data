@@ -172,16 +172,19 @@ exports.updateMeetingCheckIns = async (meetingId, checkIns) => {
             "PK": `MEETING#${meetingId}`,
             "SK": `MEETING#${meetingId}`
         }),
-        UpdateExpression: "SET #checkIns = :checkIns, #updatedAt = :updatedAt",
+        // UpdateExpression: "SET #checkIns = :checkIns, #updatedAt = :updatedAt",
+        UpdateExpression: "SET #checkIns = :checkIns, #createdAt = if_not_exists(#createdAt, :createdAt) ADD #count :count",
         ExpressionAttributeNames: {
             "#checkIns": "checkIns",
-            "#updatedAt": "updatedAt"
+            "#count": "count",
+            "#createdAt": "createdAt",
         },
         ExpressionAttributeValues: marshall({
             ":checkIns": checkIns,
-            ":updatedAt": new Date().toISOString()
+            ":count": 1,
+            ":createdAt": new Date().toISOString(),
         })
-    };
+    }
 
     return await dynamoDbclient.send(new UpdateItemCommand(input));
 };
