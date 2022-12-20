@@ -39,7 +39,7 @@ exports.getMeetingInfo = async (meetingId) => {
 
 exports.getMeetingList = async (eventId) => {
     initDynamoDBClient();
-    console.log("eventId", eventId)
+
     const input = {
         // TableName: process.env.DYNAMODB_TABLE_NAME,
         TableName: "onboarding",
@@ -106,7 +106,7 @@ exports.createMeeting = async (meetingId, eventId, status) => {
     const input = {
         // TableName: process.env.DYNAMODB_TABLE_NAME,
         TableName: "onboarding",
-        // Create meeting record
+        
         Item: marshall({
             "PK": `MEETING#${meetingId}`,
             "SK": `MEETING#${meetingId}`,
