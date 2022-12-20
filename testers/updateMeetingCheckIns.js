@@ -36,7 +36,7 @@ const { readJSON, writeJSON } = require("../data/meeting");
 
     checkInData.arguments.checkIns = updatedCheckIns;
     const result = await handler2(checkInData);
-    console.log(result);
-    writeJSON("./z_responses/updatedMeetingCheckInsStatus.json", response);
+    console.log(JSON.stringify(result));
+    writeJSON("./z_responses/updatedMeetingCheckInsStatus.json", result);
 })();
 
